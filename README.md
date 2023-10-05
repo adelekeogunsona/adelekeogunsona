@@ -1,12 +1,12 @@
 <!-- Header -->
 # Hi there! 👋 I'm Adeleke Ogunsona.
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=adelekeogunsona)
+![Visitor Count](https://profile-counter.glitch.me/adelekeogunsona/count.svg)
 
 <!-- Introduction -->
 I'm a passionate backend developer with expertise in PHP, Laravel, and MySQL. My mission is to craft robust and efficient solutions to bring ideas to life. Welcome to my GitHub profile!
 
 - 🤔 I’m open to opportunities and looking to collaborate on PHP and Laravel Projects
-- ⚡ Fun fact: I like Battle Rap, I easily get goosebumps when I listen to good music
+- ⚡ Fun fact: I'm inquisitive and I enjoy finding out why things work the way they do
 - 🌱 Hobbies: Trying out new tech gadgets
 
 <!-- Skills -->
@@ -24,7 +24,7 @@ Let's connect and collaborate:
 - [GitHub](https://github.com/adelekeogunsona)
 - [LinkedIn](https://www.linkedin.com/in/ogunsonaadeleke/)
 - [Twitter](https://twitter.com/ogunsonaadeleke)
-- [Website](https://adeleke.tech)
+- [Portfolio](https://adeleke.tech)
 
 <!-- Footer -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelekeogunsona&show_icons=true&theme=radical)
