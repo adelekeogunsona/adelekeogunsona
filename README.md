@@ -16,6 +16,7 @@ I'm a passionate backend developer with expertise in PHP, Laravel, and MySQL. My
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, Linux
 - **API Development:** RESTful APIs
+- **Project Management:** Linear.app
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
