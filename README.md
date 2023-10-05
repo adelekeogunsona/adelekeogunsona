@@ -1,63 +1,32 @@
 <!-- Header -->
-# Hi there! 👋 I'm [Your Name]
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+# Hi there! 👋 I'm Adeleke Ogunsona.
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=adelekeogunsona)
 
 <!-- Introduction -->
 I'm a passionate backend developer with expertise in PHP, Laravel, and MySQL. My mission is to craft robust and efficient solutions to bring ideas to life. Welcome to my GitHub profile!
 
+- 🤔 I’m open to opportunities and looking to collaborate on PHP and Laravel Projects
+- ⚡ Fun fact: I like Battle Rap, I easily get goosebumps when I listen to good music
+- 🌱 Hobbies: Trying out new tech gadgets
+
 <!-- Skills -->
 ## 🔧 Skills
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel
-- **Databases:** MySQL
-- **Version Control:** Git
+- **Languages:** PHP, Python, C
+- **Frameworks:** Laravel, Flask
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Linux
 - **API Development:** RESTful APIs
-- **DevOps:** Docker
-
-<!-- Projects -->
-## 🚀 Featured Projects
-Here are some of my favorite projects:
-
-1. [Project Name 1](https://github.com/yourusername/project-link-1) - Brief description of what this project does.
-   - Technologies used: Laravel, MySQL, PHP
-   - [Demo](https://project-demo-link-1)
-
-2. [Project Name 2](https://github.com/yourusername/project-link-2) - Brief description of what this project does.
-   - Technologies used: Laravel, MySQL, PHP
-   - [Demo](https://project-demo-link-2)
-
-3. [Project Name 3](https://github.com/yourusername/project-link-3) - Brief description of what this project does.
-   - Technologies used: Laravel, MySQL, PHP
-   - [Demo](https://project-demo-link-3)
-
-<!-- Blog -->
-## 📝 Latest Blog Posts
-I love sharing my knowledge and experiences. Check out my latest blog posts:
-
-1. [Title of Blog Post 1](https://yourbloglink.com/post-1)
-   - Description of the post.
-
-2. [Title of Blog Post 2](https://yourbloglink.com/post-2)
-   - Description of the post.
-
-3. [Title of Blog Post 3](https://yourbloglink.com/post-3)
-   - Description of the post.
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
 Let's connect and collaborate:
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Website](https://yourwebsite.com)
-
-<!-- Fun Fact -->
-## 🌟 Fun Fact
-Did you know that I'm also a [Hiking Enthusiast](https://yourhikingblog.com)? When I'm not coding, you'll find me exploring new trails and soaking in the beauty of nature.
+- [GitHub](https://github.com/adelekeogunsona)
+- [LinkedIn](https://www.linkedin.com/in/ogunsonaadeleke/)
+- [Twitter](https://twitter.com/ogunsonaadeleke)
+- [Website](https://adeleke.tech)
 
 <!-- Footer -->
-<!-- Feel free to customize this part as you like -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelekeogunsona&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adelekeogunsona&layout=compact&theme=radical)
