@@ -19,7 +19,7 @@ I'm a passionate backend developer with expertise in PHP, Laravel, and MySQL. My
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
-Let's connect and collaborate:
+I'd love to hear from you if you're curious about anything, or looking for a partner, or just in the mood for a conversation. I'm always up for meeting new people and working on awesome projects!"
 
 - [GitHub](https://github.com/adelekeogunsona)
 - [LinkedIn](https://www.linkedin.com/in/ogunsonaadeleke/)
