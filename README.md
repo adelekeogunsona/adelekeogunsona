@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there! 👋 I'm Adeleke Ogunsona
+# Hi there! 👋 I'm Adeleke
 
 <!-- Introduction -->
 I'm a passionate backend developer with expertise in PHP, Laravel, and MySQL. My mission is to craft robust and efficient solutions to bring ideas to life. Welcome to my GitHub profile!
