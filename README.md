@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Adeleke
 
 <!-- Introduction -->
-I'm a passionate backend developer with expertise in PHP, Laravel, and MySQL. My mission is to craft robust and efficient solutions to bring ideas to life. Welcome to my GitHub profile!
+A skilled backend developer with over three years of experience using PHP, Laravel, and both relational and non-relational databases. Eager to collaborate on building solid and user-friendly web applications. Welcome to my GitHub profile!
 
 - 🤔 I’m open to opportunities and looking to collaborate on PHP and Laravel Projects
 - ⚡ Fun fact: I'm inquisitive and I enjoy finding out why things work the way they do
@@ -24,9 +24,4 @@ I'd love to hear from you if you're curious about anything, or looking for a par
 - [GitHub](https://github.com/adelekeogunsona)
 - [LinkedIn](https://www.linkedin.com/in/ogunsonaadeleke/)
 - [Twitter](https://twitter.com/ogunsonaadeleke)
-- [Portfolio](https://adeleke.tech)
-
-<!-- Footer -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelekeogunsona&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adelekeogunsona&layout=compact&theme=radical)
+- [Portfolio](https://adelekeogunsona.com)
