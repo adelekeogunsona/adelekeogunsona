@@ -6,7 +6,7 @@ A skilled backend developer with over three years of experience using PHP, Larav
 
 - 🤔 I’m open to opportunities and looking to collaborate on PHP and Laravel Projects
 - ⚡ Fun fact: I'm inquisitive and I enjoy finding out why things work the way they do
-- 🌱 Hobbies: Trying out new tech gadgets
+- 🌱 Hobbies: Trying out new technologies/gadgets
 
 <!-- Skills -->
 ## 🔧 Skills
