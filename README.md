@@ -22,6 +22,6 @@ A skilled backend developer with over three years of experience using PHP, Larav
 I'd love to hear from you if you're curious about anything, or looking for a partner, or just in the mood for a conversation. I'm always up for meeting new people and working on awesome projects!"
 
 - [GitHub](https://github.com/adelekeogunsona)
-- [LinkedIn](https://www.linkedin.com/in/ogunsonaadeleke/)
+- [LinkedIn](https://www.linkedin.com/in/adelekeogunsona/)
 - [Twitter](https://twitter.com/ogunsonaadeleke)
 - [Portfolio](https://adelekeogunsona.com)
