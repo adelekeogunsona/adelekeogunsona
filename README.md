@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Adeleke
 
 <!-- Introduction -->
-A skilled backend developer with over three years of experience using PHP, Laravel, and both relational and non-relational databases. Eager to collaborate on building solid and user-friendly web applications. Welcome to my GitHub profile!
+A skilled backend developer with over four years of experience using PHP, Laravel, and both relational and non-relational databases. Eager to collaborate on building solid and user-friendly web applications. Welcome to my GitHub profile!
 
 - 🤔 I’m open to opportunities and looking to collaborate on PHP and Laravel Projects
 - ⚡ Fun fact: I'm inquisitive and I enjoy finding out why things work the way they do
@@ -10,12 +10,10 @@ A skilled backend developer with over three years of experience using PHP, Larav
 
 <!-- Skills -->
 ## 🔧 Skills
-- **Languages:** PHP, Python, C
-- **Frameworks:** Laravel, Flask
+- **Languages:** PHP, Python, TypeScript
+- **Frameworks:** Laravel, FastAPI, Express.js
 - **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Linux
-- **API Development:** RESTful APIs
-- **Project Management:** Linear.app
+- **Tools:** Git, Linux, Devops
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
