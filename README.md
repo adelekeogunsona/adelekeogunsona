@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Adeleke
 
 <!-- Introduction -->
-I'm a Software Engineer focused on building fast and secure backend services. My work over the last 4 years covers delivering reliable systems and automating business processes to reduce manual effort. My approach is to always prioritize simple solutions and stability over complexity. Currently completing a Masters degree in Finland, I am ready to build high quality software.
+I'm a Software Engineer focused on building fast and secure backend services. My work over the last 4 years covers delivering reliable systems and automating business processes to reduce manual effort. My approach is to always prioritize simple solutions and stability over complexity. I have an interest in AI and Robotics, and I am currently pursuing a Masters degree in Computing Sciences with a focus on Autonomous Systems.
 
 - 🤔 I’m open to opportunities and looking to collaborate on PHP and Laravel Projects
 - ⚡ Fun fact: I'm inquisitive and I enjoy finding out why things work the way they do
