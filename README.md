@@ -19,7 +19,6 @@ I'm a Software Engineer focused on building fast and secure backend services. My
 ## 🤝 Connect with Me
 I'd love to hear from you if you're curious about anything, or looking for a partner, or just in the mood for a conversation. I'm always up for meeting new people and working on awesome projects!"
 
-- [GitHub](https://github.com/adelekeogunsona)
+- [Portfolio](https://adelekeogunsona.com)
 - [LinkedIn](https://www.linkedin.com/in/adelekeogunsona/)
 - [Twitter](https://twitter.com/ogunsonaadeleke)
-- [Portfolio](https://adelekeogunsona.com)
